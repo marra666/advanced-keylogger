@@ -1,3 +1,4 @@
+#to start it pres "q" to stop it press "q"
 import pyautogui
 import time
 from datetime import datetime
